@@ -28,8 +28,8 @@ Today we will talk about one way to resolve this headache, with localStorage.
 ### Preparation
 *Before this lesson, students should already be able to:*
 
-- Write basic HTML/CSS
-- Read and write basic vanilla Javascript
+- **Write** basic HTML/CSS
+- **Read** and **write** basic vanilla Javascript
 
 ### Why are we doing this?
 In this Unit we will be building Browser games with HTML, CSS and client-side JavaScript. Although we are not yet ready to connect a database on the backend or store data on a server, the browser offers the ability to persist data locally using `sessionStorage`, `localStorage` and some other options we may explore later in the course.
