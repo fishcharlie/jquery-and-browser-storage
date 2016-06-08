@@ -22,7 +22,7 @@ Today we will talk about one way to resolve this headache, with localStorage.
 *After this lesson, students will be able to:*
 
 - **Create** HTML forms and store user input in the browser
-- *Read** and **write** data with localStorage and sessionStorage
+- **Read** and **write** data with localStorage and sessionStorage
 - **Understand** the pros and cons of using built-in browser storage
 
 ### Preparation
