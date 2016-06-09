@@ -50,11 +50,11 @@ Creating a game, you may wish to allow your users to store their names and high 
 
 ### What is jQuery?
 
-jQuery is a Javascript library with a lot of useful pre-defined functions and expressions.  Basically you can think of it as a very large chunk of Javascript code that you add to your webpage *before* you add your own Javascript, so you can use all these functions and expressions in your own code.
+**jQuery** is a Javascript library with a lot of useful pre-defined functions and expressions.  Basically you can think of it as a very large chunk of Javascript code that you add to your webpage *before* you add your own Javascript, so you can use all these functions and expressions in your own code.
 
 ### Importing jQuery in `index.html`
 
-In order to start with jQuery, you need to copy this somewhere *above* the script import tag of your own Javascript, like this:
+In order to start with **jQuery**, you need to copy this somewhere on your HTML page, *above* the script import tag of your own Javascript, like this:
 
 ```html
 
