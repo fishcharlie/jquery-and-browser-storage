@@ -7,7 +7,9 @@ creator:
     name: Ben Hulan
     city: SF
 competencies: Front-end intro
-adapted by: Zeb Girouard
+adapted by: 
+    name: Zeb Girouard
+    city: DEN
 ---
  -->
 
@@ -54,8 +56,7 @@ jQuery is a Javascript library with a lot of useful pre-defined functions and ex
 
 In order to start with jQuery, you need to copy this somewhere *above* the script import tag of your own Javascript, like this:
 
-```
-html
+```html
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-rc1/jquery.min.js"></script>
 <script src="myjavascript.js"></script>
@@ -66,8 +67,7 @@ html
 
 One of the most important pieces of jQuery is the `$` sign.  This is an alias for `jQuery`, and it means "access the jQuery library to do something".  Here are a few examples:
 
-```
-javascript
+```javascript
 
 $("body").hide(); // Hides the body of your page
 $(".link").css("color", "red"); // Turns all links red
