@@ -102,7 +102,7 @@ Take a minute to think out the following steps.  In pairs, complete the followin
  - Import jQuery (Hint: use the line above)
  - Create a heading tag (h1, h2, or h3)
  - Give it a class
- - Create an inline-style tag below your jQuery import
+ - Create an inline-script tag below your jQuery import
  - Use jQuery to select this heading, and change its color
 
 Bonus:
