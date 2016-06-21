@@ -43,13 +43,6 @@ Well, with jQuery we'll make that process a lot easier.
 
 <!-- CFU Fist-to-five on these concepts -->
 
-### Why do we need localStorage?
-In this Unit we will be building Browser games with HTML, CSS and client-side JavaScript. Although we are not yet ready to connect a database on the backend or store data on a server, the browser offers the ability to persist data locally using `sessionStorage`, `localStorage` and some other options we may explore later in the course.
-
-Creating a game, you may wish to allow your users to store their names and high scores, or keep track of some other simple data.
-
-[Here](https://developer.mozilla.org/en-US/docs/Web/API/Storage) is a look at some documentation for the Web Storage API.
-
 ## Intro to jQuery (15 min)
 
 <!-- 9:05 -->
@@ -116,6 +109,13 @@ Bonus:
 
  - If you have time, use jQuery to select another element, and change its positioning or size
 
+## Why do we need localStorage?
+In this Unit we will be building Browser games with HTML, CSS and client-side JavaScript. Although we are not yet ready to connect a database on the backend or store data on a server, the browser offers the ability to persist data locally using `sessionStorage`, `localStorage` and some other options we may explore later in the course.
+
+Creating a game, you may wish to allow your users to store their names and high scores, or keep track of some other simple data.
+
+[Here](https://developer.mozilla.org/en-US/docs/Web/API/Storage) is a look at some documentation for the Web Storage API.
+
 ## Warm-up (15 min)
 
 <!-- 9:40 -->
@@ -137,7 +137,7 @@ Let's brainstorm some other tasks we can accomplish with localStorage or session
 - Figure out something to keep track of on a simple single-page web app
 - Create a Form with the <form></form> tag
 - Save the info to localStorage
-- Feel free to "borrow" liberally from the example code in the repo
+- Feel free to "borrow" liberally from the example code in the repo, _but no copy-paste_
 
 
 _Remember: `localStorage` and `sessionStorage` only store strings, so you may need to `parseInt()` if you need to do anything with the user data after it has been entered._
